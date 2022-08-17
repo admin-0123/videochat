@@ -1,0 +1,7 @@
+/*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
+
+/**
+ * vue-coerce-props v1.0.0
+ * (c) 2018 Eduardo San Martin Morote <posva13@gmail.com>
+ * @license MIT
+ */

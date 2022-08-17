@@ -1,0 +1,7 @@
+{
+    "api/site/pages" : ["body"],
+    "api/site/pages/*" : ["body"],
+    "api/meetings" : ["description"],
+    "api/meetings/*" : ["description"],
+    "api/chat/messages" : ["message"]
+}
